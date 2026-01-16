@@ -2,6 +2,5 @@
 
 ###### Back-End Web Developer
 
-- :seedling: nothing lol
-- :rocket: Fluent in `.js`, `.php`, `.css`, `.html`, `.java`, `.py`, `.cs`, `.cpp`, `.ino`
-- :earth_asia: Find me: @_itsarin\_ on Discord
+- :rocket: Fluent in Node.js, Express.js & Fastify.js, REST API, Web Scraping
+- :earth_asia: Find me: @_itsarin\_ on Discord, @arin_2115 on telegram
